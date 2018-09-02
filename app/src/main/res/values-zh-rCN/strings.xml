@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的第一个应用</string>
+    <string name="title_name">我的 第一个 应用</string>
+    <string name="btn_button">这是一个按钮</string>
+    <string name="btn_jump">跳转到一个活动</string>
+    <string name="btn_display_toast">显示TOAST</string>
+</resources>

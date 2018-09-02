@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="title_name">MY FIRST APP</string>
+    <string name="btn_button">THIS IS A BUTTON </string>
+    <string name="btn_jump">JUMP INTO A ACTIVITY</string>
+    <string name="btn_display_toast">DISPLAY TOAST</string>
+</resources>
